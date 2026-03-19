@@ -58,13 +58,14 @@ This profile and its repositories contain educational examples and documentation
 
 **📍 CURRENT: Phase 1 - THM Foundation (25% complete)**
 
+```
 PHASE 1: THM Foundation (📍YOU ARE HERE)
 ├── Pre-Security (Networking, Linux/Windows)
 ├── Introduction to Cyber Security
 └── Junior Penetration Tester 🔥
-├── Nmap & Metasploit
-├── Web Hacking
-└── Burp Suite
+    ├── Nmap & Metasploit
+    ├── Web Hacking
+    └── Burp Suite
 
 PHASE 1.5: COPO Specialist (⬅️ NEXT)
 ├── GoPhish infrastructure
@@ -81,6 +82,7 @@ PHASE 3: CPTS Validation
 ├── 10-day marathon (5 hack, 5 report)
 ├── Professional reporting
 └── Infrastructure mindset: C2 redirectors
+```
 
 ---
 
@@ -91,6 +93,21 @@ PHASE 3: CPTS Validation
 A comprehensive OPSEC hardening guide for Kali Linux. Built from hands-on learning.
 
 `11 sections` • `50+ commands` • `One-click automation`
+
+---
+
+## 📊 Progress Tracker
+
+<p align="center">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/YOUR_USERNAME.png" alt="TryHackMe Progress" width="60%">
+</p>
+
+| Phase | Status | ETA |
+|-------|--------|-----|
+| **THM Pre-Security** | 🔄 In Progress | Q2 2026 |
+| **Jr. Penetration Tester** | ⏳ Next | Q2-Q3 2026 |
+| **COPO Certification** | 📅 Planned | Q3 2026 |
+| **HTB CPTS Path** | 🎯 Target | Q4 2026 |
 
 ---
 
@@ -116,3 +133,33 @@ If you are unsure whether you are authorized to perform a test, obtain written p
 - Share findings responsibly — use coordinated disclosure when reporting vulnerabilities.
 
 ---
+
+## 🤝 Contributing
+
+Contributions are welcome if they follow the repository's ethical and educational purpose. By submitting a contribution you agree that your content:
+
+- Is intended for learning, defensive research, or authorized testing,
+- Includes clear safety notes and usage instructions, and
+- Does not include covert malicious functionality intended for abuse.
+
+Please open issues or pull requests with full descriptions and safety/disclaimer notes.
+
+---
+
+## 🙏 Final Note
+
+Welcome again — use this content to learn, defend, and build more secure systems. I'm documenting my journey publicly so others on the same path might find shortcuts. If something here helps you, great! If you spot something wrong, please tell me—I'm still learning too.
+
+**Stay ethical. Stay safe. Stay invisible.**
+
+---
+
+<p align="center">
+  <a href="https://github.com/anansi-sec/Personal-OPSEC-Hardening">📘 OPSEC Guide</a> •
+  <a href="https://www.linkedin.com/in/ashtonpaul/">🔗 LinkedIn</a>
+</p>
+
+<p align="center">
+  <i>Following the roadmap. Documenting the journey. Building the skills.</i><br>
+  <b>Phase 1/4 • 25% complete • 2026 Target: CPTS</b>
+</p>
