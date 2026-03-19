@@ -101,7 +101,7 @@ A comprehensive OPSEC hardening guide for Kali Linux. Built from hands-on learni
 <p align="center">
   <img src="https://img.shields.io/badge/TryHackMe-Progress-blue?style=for-the-badge&logo=tryhackme&logoColor=white" />
   <br>
-  <sub>🔗 https://tryhackme.com/p/YOUR_USERNAME</sub>
+  <sub>🔗 https://tryhackme.com/p/ashtonpaulsingh</sub>
 </p>
 
 | Phase | Status | ETA |
