@@ -158,7 +158,7 @@ Welcome again — use this content to learn, defend, and build more secure syste
 
 <p align="center">
   <a href="https://github.com/anansi-sec/Personal-OPSEC-Hardening">📘 OPSEC Guide</a> •
-  <a href="https://www.linkedin.com/in/ashtonpaul/">🔗 LinkedIn</a>
+  <a href="https://www.linkedin.com/in/ashton-paul/">🔗 LinkedIn</a>
 </p>
 
 <p align="center">
