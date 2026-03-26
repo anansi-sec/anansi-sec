@@ -96,11 +96,11 @@ A comprehensive OPSEC hardening guide for Kali Linux. Built from hands-on learni
 
 ## 📊 Progress Tracker
 
-<p align="center">
-  <img src="https://img.shields.io/badge/TryHackMe-Progress-blue?style=for-the-badge&logo=tryhackme&logoColor=white" />
-  <br>
-  <sub>🔗 https://tryhackme.com/p/ashtonpaulsingh</sub>
-</p>
+## 📊 Progress Tracker
+
+<img src="https://img.shields.io/badge/TryHackMe-Progress-blue?style=for-the-badge&logo=tryhackme&logoColor=white" />
+<br>
+<sub>🔗 https://tryhackme.com/p/ashtonpaulsingh</sub>
 
 | Phase | Status | ETA |
 |-------|--------|-----|
