@@ -1,13 +1,12 @@
-<p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOG85cnlmYTZlZHYxdWVoZTdidGp1OGU2dG1yYms3NGFqd25kdjFwMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ELham0Mveox9e/giphy.gif" 
-       alt="Cyber world animation" 
-       width="100%" 
-       style="max-width: 1000px; 
-              border-radius: 12px; 
-              border: 2px solid #2d2d2d;
-              box-shadow: 0 8px 24px rgba(0,255,0,0.15);
-              margin: 20px auto;">
-</p>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/anansi-sec/cyberthreatmap.gif/main/world.gif" 
+       alt="Cyber threat map animation" 
+       width="800"
+       style="max-width: 100%;
+              border-radius: 12px;
+              border: 2px solid #0f0;
+              box-shadow: 0 0 20px rgba(0,255,0,0.2);">
+</div>
 
 ---
 # ⚠️ Welcome — Documenting My Descent Into The Shell
