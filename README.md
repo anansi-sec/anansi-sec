@@ -11,7 +11,7 @@
 
 ---
 
-# ⚠️ Welcome — Documenting the Red Team Journey
+# ⚠️ Welcome — Documenting my descent into the shell
 
 Welcome! This GitHub account is my personal knowledge base for red teaming, OPSEC, and security research. The materials here document what I'm learning—configurations that work, techniques I'm testing, and cheatsheets I build along the way. Everything is provided for educational purposes to help others understand adversary tradecraft so they can build better defenses.
 
