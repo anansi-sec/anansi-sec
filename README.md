@@ -9,55 +9,69 @@
 </div>
 
 ---
-# ⚠️ Welcome — Documenting My Descent Into The Shell
 
-Welcome! This GitHub account is my personal knowledge base for red teaming, OPSEC, and security research. The materials here document what I'm learning—configurations that work, techniques I'm testing, and cheatsheets I build along the way. Everything is provided for educational purposes to help others understand adversary tradecraft so they can build better defenses.
+<div align="center">
 
-**Important:** Some scripts and techniques documented here can be harmful if deployed in production or used without explicit authorization. The maintainers do not condone or take responsibility for malicious use.
+# 🕷️ anansi-sec
 
----
+### Aspiring Penetration Tester · Red Team & OPSEC · Documenting the journey
 
-## 🧭 About This Account
+<a href="https://tryhackme.com/p/ashtonpaulsingh"><img src="https://img.shields.io/badge/TryHackMe-ashtonpaulsingh-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/ashton-paul/"><img src="https://img.shields.io/badge/LinkedIn-Ashton%20Paul-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<img src="https://komarev.com/ghpvc/?username=anansi-sec&color=brightgreen&style=for-the-badge&label=PROFILE+VIEWS" />
 
-This GitHub account is explicitly focused on **OPSEC, red team infrastructure, and defensive research**. Content shared here documents my structured learning journey through TryHackMe, HTB, and self-built labs—intended to improve understanding of stealth techniques, detection, and mitigation. Use these examples responsibly, in controlled environments, and only when you have explicit authorization.
-
-Learn more about my work and resources at: [github.com/anansi-sec](https://github.com/anansi-sec)
-
----
-
-## 🎯 Intended Audience
-
-- Cybersecurity students following a similar path
-- Red team / Blue team practitioners
-- Security researchers
-- Penetration testers and lab engineers
-- Anyone documenting their own journey
+</div>
 
 ---
 
-## 📦 What's Included
+## 🧭 whoami
 
-This profile and its repositories contain educational examples and documentation, which may include:
+Cybersecurity student working through **TryHackMe** and **Hack The Box** toward the **CPTS**. I use this account as a public lab notebook — writeups, cheatsheets, and hardening notes built as I learn offensive security fundamentals, OPSEC, and clean reporting.
 
-- **OPSEC hardening guides and automation scripts**
-- **Red team infrastructure notes** (C2 redirectors, phishing setup)
-- **Stealth techniques and tradecraft** (DNS over TLS, MAC spoofing, etc.)
-- **Cheatsheets** for services like FTP, SSH, SMB, HTTP
-- **Lab notes** from TryHackMe and HTB Academy
-- **Illustrative examples** referencing relevant techniques
-
-⚠️ These tools and examples are intended to be used only in isolated labs, virtual testbeds, or with explicit written authorization from the asset owner.
+- 🎯 **Focused on:** penetration testing fundamentals, web exploitation, and OPSEC
+- 🧪 **Everything here is** lab-based (THM / HTB / self-built VMs) or authorized testing only
+- ✍️ **I document as I go** so others on the same path have something to follow
+- 🌱 **Still learning** — corrections and suggestions are always welcome
 
 ---
 
-## 🗺️ **2026 Cybersecurity Roadmap**
+## 🛠️ Arsenal
 
-`Phase 1 [THM Foundation]` ➡️ `Phase 1.5 [COPO]` ➡️ `Phase 2 [HTB CPTS]` ➡️ `Phase 3 [Cert Validation]`
+**Platforms & OS**
+<p>
+<img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+</p>
 
-**📍 CURRENT: Phase 1 - THM Foundation (25% complete)**
+**Languages & Scripting**
+<p>
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white" />
+</p>
+
+**Tooling**
+<p>
+<img src="https://img.shields.io/badge/Nmap-4682B4?style=flat-square&logo=nmap&logoColor=white" />
+<img src="https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white" />
+<img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white" />
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" />
+<img src="https://img.shields.io/badge/sqlmap-D22128?style=flat-square&logo=databricks&logoColor=white" />
+<img src="https://img.shields.io/badge/Hashcat-C0C0C0?style=flat-square&logo=hackthebox&logoColor=black" />
+</p>
+
+---
+
+## 🗺️ 2026 Roadmap
+
+`Phase 1 [THM Foundation]` ➡️ `Phase 1.5 [COPO]` ➡️ `Phase 2 [HTB CPTS Path]` ➡️ `Phase 3 [Cert Validation]`
+
+**📍 CURRENT: Phase 1 — THM Foundation (25% complete)**
 
 ```
-PHASE 1: THM Foundation (📍YOU ARE HERE)
+PHASE 1: THM Foundation (📍 YOU ARE HERE)
 ├── Pre-Security (Networking, Linux/Windows)
 ├── Introduction to Cyber Security
 └── Junior Penetration Tester 🔥
@@ -84,76 +98,78 @@ PHASE 3: CPTS Validation
 
 ---
 
-## 📦 Featured Project
+## 🔥 Featured Work
 
-### 🥷 [The Ultimate OPSEC Hardening & Stealth Guide](https://github.com/anansi-sec/Personal-OPSEC-Hardening)
-
-A comprehensive OPSEC hardening guide for Kali Linux. Built from hands-on learning.
-
-`11 sections` • `50+ commands` • `One-click automation`
+| Project | Description |
+|---------|-------------|
+| 🎯 [**HTB Starting Point**](https://github.com/anansi-sec/htb-starting-point) | Detailed, phase-by-phase writeups for HTB Starting Point machines (Tier 1 & 2) — recon → exploitation → privesc, with troubleshooting and lessons learned. |
+| 🥷 [**OPSEC Hardening & Stealth Guide**](https://github.com/anansi-sec/Personal-OPSEC-Hardening) | A hands-on OPSEC hardening guide for Kali Linux — `11 sections` • `50+ commands` • one-click automation. |
 
 ---
 
-## 📊 Progress Tracker
+## 📊 Stats
 
-<img src="https://img.shields.io/badge/TryHackMe-Progress-blue?style=for-the-badge&logo=tryhackme&logoColor=white" />
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=anansi-sec&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00ff00&icon_color=00ff00&text_color=c9d1d9" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anansi-sec&layout=compact&hide_border=true&bg_color=0d1117&title_color=00ff00&text_color=c9d1d9" />
+
 <br>
-<sub>🔗 https://tryhackme.com/p/ashtonpaulsingh</sub>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=anansi-sec&hide_border=true&background=0d1117&stroke=00ff00&ring=00ff00&fire=00ff00&currStreakLabel=00ff00&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" />
+
+<br><br>
+
+<img src="https://tryhackme-badges.s3.amazonaws.com/ashtonpaulsingh.png" alt="TryHackMe badge" />
+
+</div>
+
+---
+
+## 📈 Progress Tracker
 
 | Phase | Status | ETA |
 |-------|--------|-----|
 | **THM Pre-Security** | 🔄 In Progress | Q2 2026 |
-| **Jr. Penetration Tester** | ⏳ Next | Q2-Q3 2026 |
+| **Jr. Penetration Tester** | ⏳ Next | Q2–Q3 2026 |
 | **COPO Certification** | 📅 Planned | Q3 2026 |
 | **HTB CPTS Path** | 🎯 Target | Q4 2026 |
 
 ---
 
-## ⚖️ Disclaimer & Legal Notice
+## ⚖️ Responsible Use
 
-By using this repository you agree that:
+Everything in these repositories is for **education and authorized testing only** — run it only in isolated labs or against systems you own or have **explicit written permission** to test. Unauthorized access is illegal, and the author takes no responsibility for misuse.
+
+<details>
+<summary>📄 Full legal notice & responsible-use guidelines</summary>
+
+<br>
+
+**By using these repositories you agree that:**
 
 - You will only run these scripts and techniques in environments you own or have written authorization to test.
 - Unauthorized access, interference, or disruption of systems is illegal and unethical.
-- The repository authors and maintainers are not responsible for any misuse or damage resulting from the contents of this project.
+- The author is not responsible for any misuse or damage resulting from this content.
 - You are responsible for complying with all applicable laws, regulations, and policies.
+- If you are unsure whether you are authorized to perform a test, obtain written permission before proceeding.
 
-If you are unsure whether you are authorized to perform a test, obtain written permission before proceeding.
+**Responsible-use guidelines:**
 
----
-
-## ✅ Responsible Use Guidelines
-
-- Always obtain explicit, written authorization before testing on systems you do not own.
+- Always obtain explicit, written authorization before testing systems you do not own.
 - Use isolated environments (VMs, containers, air-gapped labs) for experimentation.
-- Prefer non-destructive testing methods; avoid data loss and service disruption unless in-scope.
+- Prefer non-destructive methods; avoid data loss and service disruption unless in-scope.
 - Document your scope, objectives, duration, and rollback plan.
 - Share findings responsibly — use coordinated disclosure when reporting vulnerabilities.
 
----
-
-## 🤝 Contributing
-
-Contributions are welcome if they follow the repository's ethical and educational purpose. By submitting a contribution you agree that your content:
-
-- Is intended for learning, defensive research, or authorized testing,
-- Includes clear safety notes and usage instructions, and
-- Does not include covert malicious functionality intended for abuse.
-
-Please open issues or pull requests with full descriptions and safety/disclaimer notes.
-
----
-
-## 🙏 Final Note
-
-Welcome again — use this content to learn, defend, and build more secure systems. I'm documenting my journey publicly so others on the same path might find shortcuts. If something here helps you, great! If you spot something wrong, please tell me—I'm still learning too.
-
-**Stay ethical. Stay safe. Stay invisible.**
+</details>
 
 ---
 
 <p align="center">
+  <a href="https://github.com/anansi-sec/htb-starting-point">🎯 HTB Writeups</a> •
   <a href="https://github.com/anansi-sec/Personal-OPSEC-Hardening">📘 OPSEC Guide</a> •
+  <a href="https://tryhackme.com/p/ashtonpaulsingh">🧪 TryHackMe</a> •
   <a href="https://www.linkedin.com/in/ashton-paul/">🔗 LinkedIn</a>
 </p>
 
@@ -161,3 +177,5 @@ Welcome again — use this content to learn, defend, and build more secure syste
   <i>Following the roadmap. Documenting the journey. Building the skills.</i><br>
   <b>Phase 1/4 • 25% complete • 2026 Target: CPTS</b>
 </p>
+
+<p align="center"><b>Stay ethical. Stay safe. Stay curious.</b></p>
