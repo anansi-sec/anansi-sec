@@ -12,7 +12,7 @@
 
 <div align="center">
 
-# 🕷️ anansi-sec
+# anansi-sec
 
 ### Pen-testing student · HTB Starting Point & Academy · documenting the path to CPTS
 
