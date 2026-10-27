@@ -16,7 +16,7 @@
 
 ### Aspiring Penetration Tester · Red Team & OPSEC · Documenting the journey
 
-<a href="https://tryhackme.com/p/ashtonpaulsingh"><img src="https://img.shields.io/badge/TryHackMe-ashtonpaulsingh-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" /></a>
+<a href="https://www.hackthebox.com/"><img src="https://img.shields.io/badge/Hack%20The%20Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" /></a>
 <a href="https://www.linkedin.com/in/ashton-paul/"><img src="https://img.shields.io/badge/LinkedIn-Ashton%20Paul-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <img src="https://komarev.com/ghpvc/?username=anansi-sec&color=brightgreen&style=for-the-badge&label=PROFILE+VIEWS" />
 
@@ -26,10 +26,10 @@
 
 ## 🧭 whoami
 
-Cybersecurity student working through **TryHackMe** and **Hack The Box** toward the **CPTS**. I use this account as a public lab notebook — writeups, cheatsheets, and hardening notes built as I learn offensive security fundamentals, OPSEC, and clean reporting.
+Cybersecurity student working through **Hack The Box** toward the **CPTS**. I use this account as a public lab notebook — writeups, cheatsheets, and hardening notes built as I learn offensive security fundamentals, OPSEC, and clean reporting.
 
 - 🎯 **Focused on:** penetration testing fundamentals, web exploitation, and OPSEC
-- 🧪 **Everything here is** lab-based (THM / HTB / self-built VMs) or authorized testing only
+- 🧪 **Everything here is** lab-based (HTB / self-built VMs) or authorized testing only
 - ✍️ **I document as I go** so others on the same path have something to follow
 - 🌱 **Still learning** — corrections and suggestions are always welcome
 
@@ -66,18 +66,18 @@ Cybersecurity student working through **TryHackMe** and **Hack The Box** toward 
 
 ## 🗺️ 2026 Roadmap
 
-`Phase 1 [THM Foundation]` ➡️ `Phase 1.5 [COPO]` ➡️ `Phase 2 [HTB CPTS Path]` ➡️ `Phase 3 [Cert Validation]`
+`Phase 1 [HTB Foundation]` ➡️ `Phase 1.5 [COPO]` ➡️ `Phase 2 [HTB CPTS Path]` ➡️ `Phase 3 [Cert Validation]`
 
-**📍 CURRENT: Phase 1 — THM Foundation (25% complete)**
+**📍 CURRENT: Phase 1 — HTB Foundation (25% complete)**
 
 ```
-PHASE 1: THM Foundation (📍 YOU ARE HERE)
-├── Pre-Security (Networking, Linux/Windows)
-├── Introduction to Cyber Security
-└── Junior Penetration Tester 🔥
-    ├── Nmap & Metasploit
-    ├── Web Hacking
-    └── Burp Suite
+PHASE 1: HTB Foundation (📍 YOU ARE HERE)
+├── Starting Point (Tier 1 & 2) 🔥
+├── HTB Academy fundamentals
+│   ├── Network & service enumeration (Nmap)
+│   ├── Web attacks & Burp Suite
+│   └── Password & hash cracking
+└── Easy retired machines
 
 PHASE 1.5: COPO Specialist (⬅️ NEXT)
 ├── GoPhish infrastructure
@@ -118,10 +118,6 @@ PHASE 3: CPTS Validation
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=anansi-sec&hide_border=true&background=0d1117&stroke=00ff00&ring=00ff00&fire=00ff00&currStreakLabel=00ff00&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" />
 
-<br><br>
-
-<img src="https://tryhackme-badges.s3.amazonaws.com/ashtonpaulsingh.png" alt="TryHackMe badge" />
-
 </div>
 
 ---
@@ -130,10 +126,10 @@ PHASE 3: CPTS Validation
 
 | Phase | Status | ETA |
 |-------|--------|-----|
-| **THM Pre-Security** | 🔄 In Progress | Q2 2026 |
-| **Jr. Penetration Tester** | ⏳ Next | Q2–Q3 2026 |
+| **HTB Starting Point** | 🔄 In Progress | Q2 2026 |
+| **HTB Academy — Pen Tester Path** | ⏳ Next | Q2–Q3 2026 |
 | **COPO Certification** | 📅 Planned | Q3 2026 |
-| **HTB CPTS Path** | 🎯 Target | Q4 2026 |
+| **HTB CPTS Exam** | 🎯 Target | Q4 2026 |
 
 ---
 
@@ -169,7 +165,7 @@ Everything in these repositories is for **education and authorized testing only*
 <p align="center">
   <a href="https://github.com/anansi-sec/htb-starting-point">🎯 HTB Writeups</a> •
   <a href="https://github.com/anansi-sec/Personal-OPSEC-Hardening">📘 OPSEC Guide</a> •
-  <a href="https://tryhackme.com/p/ashtonpaulsingh">🧪 TryHackMe</a> •
+  <a href="https://www.hackthebox.com/">📦 Hack The Box</a> •
   <a href="https://www.linkedin.com/in/ashton-paul/">🔗 LinkedIn</a>
 </p>
 
