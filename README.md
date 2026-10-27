@@ -14,7 +14,7 @@
 
 # 🕷️ anansi-sec
 
-### Aspiring Penetration Tester · Red Team & OPSEC · Documenting the journey
+### Pen-testing student · HTB Starting Point & Academy · documenting the path to CPTS
 
 <a href="https://www.hackthebox.com/"><img src="https://img.shields.io/badge/Hack%20The%20Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" /></a>
 <a href="https://www.linkedin.com/in/ashton-paul/"><img src="https://img.shields.io/badge/LinkedIn-Ashton%20Paul-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -28,7 +28,8 @@
 
 Cybersecurity student working through **Hack The Box** toward the **CPTS**. I use this account as a public lab notebook — writeups, cheatsheets, and hardening notes built as I learn offensive security fundamentals, OPSEC, and clean reporting.
 
-- 🎯 **Focused on:** penetration testing fundamentals, web exploitation, and OPSEC
+- 🎯 **Working on now:** penetration testing fundamentals — enumeration, web exploitation, and privilege escalation
+- 🧭 **Learning next:** Active Directory, pivoting, and red-team / OPSEC tradecraft
 - 🧪 **Everything here is** lab-based (HTB / self-built VMs) or authorized testing only
 - ✍️ **I document as I go** so others on the same path have something to follow
 - 🌱 **Still learning** — corrections and suggestions are always welcome
@@ -64,11 +65,11 @@ Cybersecurity student working through **Hack The Box** toward the **CPTS**. I us
 
 ---
 
-## 🗺️ 2026 Roadmap
+## 🗺️ 2026 → 2027 Roadmap
 
 `Phase 1 [HTB Foundation]` ➡️ `Phase 1.5 [COPO]` ➡️ `Phase 2 [HTB CPTS Path]` ➡️ `Phase 3 [Cert Validation]`
 
-**📍 CURRENT: Phase 1 — HTB Foundation (25% complete)**
+**📍 CURRENT: Phase 1 — HTB Foundation (wrapping up Starting Point)**
 
 ```
 PHASE 1: HTB Foundation (📍 YOU ARE HERE)
@@ -126,10 +127,10 @@ PHASE 3: CPTS Validation
 
 | Phase | Status | ETA |
 |-------|--------|-----|
-| **HTB Starting Point** | 🔄 In Progress | Q2 2026 |
-| **HTB Academy — Pen Tester Path** | ⏳ Next | Q2–Q3 2026 |
-| **COPO Certification** | 📅 Planned | Q3 2026 |
-| **HTB CPTS Exam** | 🎯 Target | Q4 2026 |
+| **HTB Starting Point** | 🔄 Wrapping up | Q4 2026 |
+| **HTB Academy — Pen Tester Path** | ⏳ Next | Q1–Q2 2027 |
+| **COPO Certification** | 📅 Planned | Q3 2027 |
+| **HTB CPTS Exam** | 🎯 Target | Q4 2027 |
 
 ---
 
@@ -171,7 +172,7 @@ Everything in these repositories is for **education and authorized testing only*
 
 <p align="center">
   <i>Following the roadmap. Documenting the journey. Building the skills.</i><br>
-  <b>Phase 1/4 • 25% complete • 2026 Target: CPTS</b>
+  <b>Phase 1/4 • HTB Foundation • 2027 Target: CPTS</b>
 </p>
 
 <p align="center"><b>Stay ethical. Stay safe. Stay curious.</b></p>
