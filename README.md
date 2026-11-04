@@ -65,9 +65,9 @@ Cybersecurity student working through **Hack The Box** toward the **CPTS**. I us
 
 ---
 
-## 🗺️ Roadmap: Shake the Rust → CJCA → Specialization
+## 🗺️ Roadmap: Free Foundation → CJCA → COPO → AD Bridge → Specialization
 
-`Phase 1 [Free Foundation]` ➡️ `Phase 1.5 [COPO]` ➡️ `Phase 2 [HTB CJCA]` ➡️ `Phase 3 [Specialization]`
+`Phase 1 [Free Foundation]` ➡️ `Phase 2 [HTB CJCA]` ➡️ `Phase 2.5 [COPO]` ➡️ `Phase 3 [AD Bridge]` ➡️ `Phase 4 [Specialization]`
 
 **📍 CURRENT: Phase 1 — Free Foundation (Starting Point Tier 2 in progress)**
 
@@ -82,20 +82,22 @@ PHASE 1: Rust Removal & Free Foundation (📍 YOU ARE HERE)
 ├── Starting Point Tier 1 ✅
 └── Starting Point Tier 2 🔄
 
-PHASE 1.5: COPO Specialist (⬅️ NEXT)
+PHASE 2: Core Beginner Track (⬅️ NEXT)
+├── HTB Junior Cybersecurity Analyst job-role path
+└── 🎯 CJCA Certification
+
+PHASE 2.5: COPO Specialist (post-CJCA)
 ├── GoPhish infrastructure
 ├── Evilginx3 & adversary-in-the-middle (AiTM)
 ├── MFA bypass techniques
 └── 🎯 COPO Certification
 
-PHASE 2: Core Beginner Track
-├── HTB Junior Cybersecurity Analyst job-role path
-└── 🎯 CJCA Certification
+PHASE 3: Practical AD & Exploitation Bridge
+└── TCM PNPT *or* HTB CPTS core modules (AD, pivoting, privesc)
 
-PHASE 3: Specialization (chosen by target role)
-├── Pre-CPTS bridge: CWL Web-RTA ➡️ TCM PNPT
-└── CPTS (offensive) ─┬─ CWES (web)
-                       └─ CDSA (defensive)
+PHASE 4: Specialization (chosen by target role)
+├── Red Team:  CPTS 🎯 → CWES
+└── Blue Team: CDSA 🎯
 ```
 
 ---
@@ -132,11 +134,11 @@ PHASE 3: Specialization (chosen by target role)
 | 1 | Starting Point Tier 1 | ✅ Complete |
 | 1 | Starting Point Tier 2 | 🔄 In progress |
 | 1 | HTB Academy free Tier 0/1 modules | 🔄 In progress |
-| 1.5 | COPO Certification (GoPhish / Evilginx3 / MFA bypass) | ⏳ Next |
-| 2 | HTB Junior Cybersecurity Analyst path | 📅 Planned |
+| 2 | HTB Junior Cybersecurity Analyst path | ⏳ Next |
 | 2 | CJCA Certification | 📅 Planned |
-| 3 | Pre-CPTS bridge (CWL Web-RTA → TCM PNPT) | 📅 Planned |
-| 3 | Specialization cert (CPTS / CWES / CDSA) | 🎯 Target |
+| 2.5 | COPO Certification (GoPhish / Evilginx3 / MFA bypass) | 📅 Planned (post-CJCA) |
+| 3 | AD & Exploitation Bridge (TCM PNPT or CPTS core modules) | 📅 Planned |
+| 4 | Specialization — Red Team (CPTS 🎯 → CWES) or Blue Team (CDSA 🎯) | 🎯 Core Target |
 
 ---
 
@@ -178,7 +180,7 @@ Everything in these repositories is for **education and authorized testing only*
 
 <p align="center">
   <i>Following the roadmap. Documenting the journey. Building the skills.</i><br>
-  <b>Phase 1/4 • Free Foundation → COPO → CJCA → Specialization</b>
+  <b>Phase 1/4 • Free Foundation → CJCA → COPO → AD Bridge → Specialization</b>
 </p>
 
 <p align="center"><b>Stay ethical. Stay safe. Stay curious.</b></p>
