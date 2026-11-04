@@ -65,36 +65,31 @@ Cybersecurity student working through **Hack The Box** toward the **CPTS**. I us
 
 ---
 
-## 🗺️ 2026 → 2027 Roadmap
+## 🗺️ Roadmap: Shake the Rust → CJCA → Specialization
 
-`Phase 1 [HTB Foundation]` ➡️ `Phase 1.5 [COPO]` ➡️ `Phase 2 [HTB CPTS Path]` ➡️ `Phase 3 [Cert Validation]`
+`Phase 1 [Free Foundation]` ➡️ `Phase 2 [HTB CJCA]` ➡️ `Phase 3 [Specialization]`
 
-**📍 CURRENT: Phase 1 — HTB Foundation (wrapping up Starting Point)**
+**📍 CURRENT: Phase 1 — Free Foundation (Starting Point Tier 2 in progress)**
 
 ```
-PHASE 1: HTB Foundation (📍 YOU ARE HERE)
-├── Starting Point (Tier 1 & 2) 🔥
-├── HTB Academy fundamentals
-│   ├── Network & service enumeration (Nmap)
-│   ├── Web attacks & Burp Suite
-│   └── Password & hash cracking
-└── Easy retired machines
+PHASE 1: Rust Removal & Free Foundation (📍 YOU ARE HERE)
+├── HTB Academy free Tier 0/1 modules
+│   ├── Linux Fundamentals
+│   ├── Windows Fundamentals
+│   ├── Introduction to Networking
+│   └── Web Requests
+├── Starting Point Tier 0 ✅
+├── Starting Point Tier 1 ✅
+└── Starting Point Tier 2 🔄
 
-PHASE 1.5: COPO Specialist (⬅️ NEXT)
-├── GoPhish infrastructure
-├── Evilginx3 & adversary-in-the-middle
-├── MFA bypass techniques
-└── 🎯 COPO Certification
+PHASE 2: Core Beginner Track (⬅️ NEXT)
+├── HTB Junior Cybersecurity Analyst job-role path
+└── 🎯 CJCA Certification
 
-PHASE 2: HTB Penetration Tester Path
-├── Pivoting (Ligolo-ng)
-├── Active Directory manual enumeration
-└── Attacking Enterprise Networks
-
-PHASE 3: CPTS Validation
-├── 10-day marathon (5 hack, 5 report)
-├── Professional reporting
-└── Infrastructure mindset: C2 redirectors
+PHASE 3: Specialization (chosen by target role)
+├── Pre-CPTS bridge: CWL Web-RTA ➡️ TCM PNPT
+└── CPTS (offensive) ─┬─ CWES (web)
+                       └─ CDSA (defensive)
 ```
 
 ---
@@ -125,12 +120,16 @@ PHASE 3: CPTS Validation
 
 ## 📈 Progress Tracker
 
-| Phase | Status | ETA |
-|-------|--------|-----|
-| **HTB Starting Point** | 🔄 Wrapping up | Q4 2026 |
-| **HTB Academy — Pen Tester Path** | ⏳ Next | Q1–Q2 2027 |
-| **COPO Certification** | 📅 Planned | Q3 2027 |
-| **HTB CPTS Exam** | 🎯 Target | Q4 2027 |
+| Phase | Item | Status |
+|-------|------|--------|
+| 1 | Starting Point Tier 0 | ✅ Complete |
+| 1 | Starting Point Tier 1 | ✅ Complete |
+| 1 | Starting Point Tier 2 | 🔄 In progress |
+| 1 | HTB Academy free Tier 0/1 modules | 🔄 In progress |
+| 2 | HTB Junior Cybersecurity Analyst path | ⏳ Next |
+| 2 | CJCA Certification | 📅 Planned |
+| 3 | Pre-CPTS bridge (CWL Web-RTA → TCM PNPT) | 📅 Planned |
+| 3 | Specialization cert (CPTS / CWES / CDSA) | 🎯 Target |
 
 ---
 
@@ -172,7 +171,7 @@ Everything in these repositories is for **education and authorized testing only*
 
 <p align="center">
   <i>Following the roadmap. Documenting the journey. Building the skills.</i><br>
-  <b>Phase 1/4 • HTB Foundation • 2027 Target: CPTS</b>
+  <b>Phase 1/3 • Free Foundation → CJCA → Specialization</b>
 </p>
 
 <p align="center"><b>Stay ethical. Stay safe. Stay curious.</b></p>
